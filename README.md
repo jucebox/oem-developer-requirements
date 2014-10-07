@@ -26,7 +26,7 @@ The following qualifications are nice to have:
 - You have a basic knowledge of C / C + + Programming
 - You are familiar with TCP / IP
 - Ideally, you are familiar with Smart Home/ Home Automation technologies
-- 
+
 If you find this position attractive, please send us your application, including salary expectation and earliest availability date, by e-mail to (OEM – Contact). Application deadline: (Month) (day) (year)
 
 info (at) oem-partner.com
